@@ -1,6 +1,9 @@
 [Adblock Plus 2.0]
 ! Title: 技術系スパムフィルタ
-! Homepage: https://github.com/tats-u/tech-spam-filter
+! Homepage: https://github.com/Walkmana-25/tech-spam-filter
+! https://www.bugbugnow.net/2021/09/ublock-filter.html
+! https://writening.net/page?f5Skvc
+
 
 ! 侍エンジニア塾
 www.google.com,www.google.co.jp##div.g:has(.r>a[href*="://www.sejuku.net"])
